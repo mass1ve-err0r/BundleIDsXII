@@ -1,0 +1,9 @@
+Package: de.mass1veerr0r.bundleidsxii
+Name: BundleIDsXII
+Depends applist
+Version: 2.0
+Architecture: iphoneos-arm
+Description: App to see installed bundle IDs.
+Maintainer: TD, mass1ve_err0r
+Author: TD
+Section: Utilities
